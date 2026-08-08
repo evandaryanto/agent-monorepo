@@ -1,0 +1,8 @@
+{
+  "name": "agent-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "finalize": "pnpm install --frozen-lockfile"
+  }
+}
