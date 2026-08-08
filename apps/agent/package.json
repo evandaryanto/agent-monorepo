@@ -1,0 +1,7 @@
+{
+  "name": "@agent-monorepo/agent",
+  "version": "1.0.0",
+  "dependencies": {
+    "immutable": "4.3.8"
+  }
+}
